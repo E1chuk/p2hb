@@ -1,0 +1,38 @@
+2022-04-26 12:19:20,703:INFO:discord.client: logging in using static token
+2022-04-26 12:19:21,196:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2022-04-26 12:19:21,359:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-main-f6j7",{"micros":70829,"calls":["discord-sessions-green-prd-2-165",{"micros":69620,"calls":["start_session",{"micros":36868,"calls":["discord-api-595497d997-v9z2p",{"micros":32522,"calls":["get_user",{"micros":7534},"add_authorized_ip",{"micros":2519},"get_guilds",{"micros":3064},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":31891,"calls":[]}]}]}] (Session ID: f6c760c9dab1f54e898f718da805a1be).
+2022-04-26 12:21:09,531:INFO:discord.client: Cleaning up tasks.
+2022-04-26 12:21:09,531:INFO:discord.client: Cleaning up after 13 tasks.
+2022-04-26 12:21:09,691:INFO:discord.client: All tasks finished cancelling.
+2022-04-26 12:21:09,692:INFO:discord.client: Closing the event loop.
+2022-04-26 12:22:11,544:INFO:discord.client: logging in using static token
+2022-04-26 12:22:12,020:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2022-04-26 12:22:12,197:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-main-h6gh",{"micros":97699,"calls":["discord-sessions-green-prd-2-153",{"micros":95850,"calls":["start_session",{"micros":73233,"calls":["discord-api-595497d997-cdvdw",{"micros":68237,"calls":["get_user",{"micros":13953},"add_authorized_ip",{"micros":1770},"get_guilds",{"micros":7269},"coros_wait",{"micros":0}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":8507,"calls":[]}]}]}] (Session ID: c609c90fed1a58028bbc07d36b237569).
+2022-04-26 12:24:14,142:INFO:discord.client: Cleaning up tasks.
+2022-04-26 12:24:14,143:INFO:discord.client: Cleaning up after 13 tasks.
+2022-04-26 12:24:14,239:INFO:discord.client: All tasks finished cancelling.
+2022-04-26 12:24:14,240:INFO:discord.client: Closing the event loop.
+2022-04-26 12:24:29,479:INFO:discord.client: logging in using static token
+2022-04-26 12:24:29,956:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2022-04-26 12:24:30,134:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-main-lqgr",{"micros":92898,"calls":["discord-sessions-green-prd-2-153",{"micros":91486,"calls":["start_session",{"micros":44068,"calls":["discord-api-595497d997-6mgcz",{"micros":37614,"calls":["get_user",{"micros":9567},"add_authorized_ip",{"micros":1906},"get_guilds",{"micros":3427},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":32134,"calls":[]}]}]}] (Session ID: 00834ce4ce6395903993e848bd1bcbb6).
+2022-04-26 12:25:29,782:INFO:discord.client: Cleaning up tasks.
+2022-04-26 12:25:29,783:INFO:discord.client: Cleaning up after 12 tasks.
+2022-04-26 12:25:29,884:INFO:discord.client: All tasks finished cancelling.
+2022-04-26 12:25:29,884:INFO:discord.client: Closing the event loop.
+2022-04-26 12:40:44,975:INFO:discord.client: logging in using static token
+2022-04-26 12:40:45,402:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2022-04-26 12:40:45,574:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-main-vtn3",{"micros":93120,"calls":["discord-sessions-green-prd-2-21",{"micros":91404,"calls":["start_session",{"micros":54804,"calls":["discord-api-595497d997-r5v6c",{"micros":49296,"calls":["get_user",{"micros":9373},"add_authorized_ip",{"micros":2728},"get_guilds",{"micros":6556},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":19573,"calls":[]}]}]}] (Session ID: d476b8734ae68277690a38b74a1832e8).
+2022-04-26 12:41:25,593:INFO:discord.client: Cleaning up tasks.
+2022-04-26 12:41:25,594:INFO:discord.client: Cleaning up after 12 tasks.
+2022-04-26 12:41:25,732:INFO:discord.client: All tasks finished cancelling.
+2022-04-26 12:41:25,732:INFO:discord.client: Closing the event loop.
+2022-04-26 12:43:15,470:INFO:discord.client: logging in using static token
+2022-04-26 12:43:15,957:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2022-04-26 12:43:16,145:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-main-rp45",{"micros":108598,"calls":["discord-sessions-green-prd-2-174",{"micros":103240,"calls":["start_session",{"micros":47010,"calls":["discord-api-595497d997-zngnk",{"micros":42356,"calls":["get_user",{"micros":7501},"add_authorized_ip",{"micros":2345},"get_guilds",{"micros":5542},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":40230,"calls":[]}]}]}] (Session ID: 91b5867dad8f42d27bccf06bbee5ca95).
+2022-04-26 12:47:47,941:INFO:discord.client: Cleaning up tasks.
+2022-04-26 12:47:47,941:INFO:discord.client: Cleaning up after 6 tasks.
+2022-04-26 12:47:48,098:INFO:discord.client: All tasks finished cancelling.
+2022-04-26 12:47:48,098:INFO:discord.client: Closing the event loop.
+2022-04-26 12:51:53,741:INFO:discord.client: logging in using static token
+2022-04-26 12:51:54,211:INFO:discord.gateway: Shard ID 0 has sent the IDENTIFY payload.
+2022-04-26 12:51:54,374:INFO:discord.gateway: Shard ID 0 has connected to Gateway: ["gateway-prd-main-nhw7",{"micros":81086,"calls":["discord-sessions-green-prd-2-85",{"micros":78578,"calls":["start_session",{"micros":55240,"calls":["discord-api-595497d997-bksbw",{"micros":50224,"calls":["get_user",{"micros":8181},"add_authorized_ip",{"micros":3190},"get_guilds",{"micros":7467},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":14104,"calls":[]}]}]}] (Session ID: 513109e426b14b394c1e2e2783813140).
